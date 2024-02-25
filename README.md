@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @KnightSGR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Sudin Rai
+- 👀 I’m interested in Applications Development
+- 🌱 I’m currently learning c++ and java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-knightwolfe40@gmail.com
+- 📫 How to reach me sudinrai946@gmail.com
 <!---
 KnightSGR/KnightSGR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
