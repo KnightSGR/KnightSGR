@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudin Rai
 - 👀 I’m interested in Applications Development
-- 🌱 I’m currently learning c++ and java
+- 🌱 I’m currently learning c++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sudinrai946@gmail.com
 <!---
